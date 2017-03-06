@@ -1,0 +1,111 @@
+stats4days_20130906_20131206_id_g_1_id_m_1.csv 
+stats4days_20130906_20131206_id_g_1_id_m_2.csv 
+stats4days_20130906_20131206_id_g_1_id_m_97.csv 
+stats4days_20130906_20131206_id_g_3_id_m_1.csv 
+stats4days_20130906_20131206_id_g_3_id_m_2.csv 
+stats4days_20130906_20131206_id_g_3_id_m_97.csv 
+stats4days_20130906_20131206_id_g_4_id_m_1.csv 
+stats4days_20130906_20131206_id_g_4_id_m_2.csv 
+stats4days_20130906_20131206_id_g_4_id_m_97.csv 
+stats4days_20130906_20131206_id_g_5_id_m_1.csv 
+stats4days_20130906_20131206_id_g_5_id_m_2.csv 
+stats4days_20130906_20131206_id_g_5_id_m_97.csv 
+stats4days_20130906_20131206_id_g_7_id_m_1.csv 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-10-31 2013-11-04 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-04 2013-11-08 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-08 2013-11-12 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-12 2013-11-16 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-16 2013-11-20 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+brak prognoz metody 2 dla gauge 7 w okresie 2013-11-20 2013-11-24 
+stats4days_20130906_20131206_id_g_7_id_m_2.csv 
+stats4days_20130906_20131206_id_g_7_id_m_97.csv 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+brak prognoz metody 1 dla gauge 8 w okresie 2013-09-05 2013-09-09 
+stats4days_20130906_20131206_id_g_8_id_m_1.csv 
+stats4days_20130906_20131206_id_g_8_id_m_2.csv 
+stats4days_20130906_20131206_id_g_8_id_m_97.csv 
+stats4days_20130906_20131206_id_g_15_id_m_1.csv 
+stats4days_20130906_20131206_id_g_15_id_m_2.csv 
+stats4days_20130906_20131206_id_g_15_id_m_97.csv 
+stats4days_20130906_20131206_id_g_18_id_m_1.csv 
+stats4days_20130906_20131206_id_g_18_id_m_2.csv 
+stats4days_20130906_20131206_id_g_18_id_m_97.csv 
+stats4days_20130906_20131206_id_g_19_id_m_1.csv 
+stats4days_20130906_20131206_id_g_19_id_m_2.csv 
+stats4days_20130906_20131206_id_g_19_id_m_97.csv 
